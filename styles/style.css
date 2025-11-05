@@ -8,6 +8,7 @@
     background-color: #FFFFFF;
     margin: 0;
     padding: 0;
+    overflow-x: hidden
 }
 
 /* Секция 1: Хедер */
@@ -48,7 +49,6 @@
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 200;
-    line-height: normal;
     text-decoration: none;
     line-height: 20%;
     letter-spacing: 0.02em;
@@ -149,6 +149,7 @@
 
 .aligned-text_center {
     text-align: center;
+    letter-spacing: 25px;
 }
 
 .aligned-text_right {
